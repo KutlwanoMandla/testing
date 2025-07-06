@@ -12,3 +12,8 @@
 - `git commit`
 
 
+
+---
+
+## Some commands to try:
+1. `git remote show origin` - Checks the default branch name. (HEAD branch: main)
